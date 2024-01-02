@@ -1,5 +1,4 @@
-# Day 1: Trebuchet?!
-
+# Trebuchet?!
 import re
 
 INPUT_FILE_PATH = 'input.txt'
