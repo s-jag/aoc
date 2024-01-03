@@ -7,7 +7,6 @@ import numpy
 
 def main() :
     lines = parse_input_file()
-
     times = []
     records = []
     counts = [0, 0, 0, 0]
